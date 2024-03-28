@@ -1,0 +1,11 @@
+<RCC>
+  <qresource prefix="image">
+    <file>ui_image/DIC2D.ico</file>
+    <file>ui_image/警告.png</file>
+    <file>ui_image/信息.png</file>
+    <file>ui_image/选取目录.png</file>
+    <file>ui_image/选取文件.png</file>
+    <file>ui_image/祝贺.png</file>
+    <file>ui_image/校徽.png</file>
+  </qresource>
+</RCC>
